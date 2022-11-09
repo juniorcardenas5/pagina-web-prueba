@@ -1,0 +1,79 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 08 Nov 2022 19:41:29 at https://ojo.pe/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://ojo.pe/ -O1 "C:\My Web Sites\PAGINA JUNIOR" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+19:42:03	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://ojo.pe/)
+19:42:04	Error: 	"Not Found" (404) at link https://ojo.pe/ak.m (from https://ojo.pe/)
+19:42:04	Error: 	"Not Found" (404) at link https://ojo.pe/ak.t (from https://ojo.pe/)
+19:44:35	Error: 	Exit requested by shell or user
+19:44:35	Warning: 	File not added due to mirror cancel: https://ojo.pe/resizer/XYAH73GWS8Z-h_9iTS10kSeRn_A=/118x72/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/IU24G6ZS5VDCVOP77NCON3PFAY.png
+19:44:40	Warning: 	Moved Temporarily for https://ojo.pe/mujer/casos-del-corazon//
+19:44:40	Warning: 	Redirected link is identical because of 'URL Hack' option: https://ojo.pe/mujer/casos-del-corazon// and https://ojo.pe/mujer/casos-del-corazon/
+19:44:40	Warning: 	File has moved from https://ojo.pe/mujer/casos-del-corazon// to https://ojo.pe/mujer/casos-del-corazon/
+19:44:41	Error: 	"Not Found" (404) at link https://ojo.pe/undefined/actualidad/medicos-estan-desprotegidos-mas-de-5-mil-no-han-recibido-ninguna-dosis-contra-el-covid-19-web-ojo-print-noticia/ (from https://ojo.pe/)
+19:44:41	Error: 	"Not Found" (404) at link https://ojo.pe/undefined/autor/redaccion-ojo/ (from https://ojo.pe/)
+19:44:41	Error: 	"Not Found" (404) at link https://ojo.pe/undefined/actualidad/sedapal-cortara-servicio-de-agua-en-6-distritos-de-lima-el-miercoles-9-de-noviembre-conoce-las-zonas-y-los-horarios-surco-la-molina-san-martin-de-porres-rmmn-emcc-noticia/ (from https://ojo.pe/)
+19:44:41	Error: 	"Not Found" (404) at link https://ojo.pe/undefined/actualidad/pasamayito-sera-inaugurado-y-abierto-al-transito-vehicular-el-viernes-11-de-noviembre-anuncia-municipalidad-de-lima-mml-emape-comas-san-juan-de-lurigancho-sjl-rmmn-noticia/ (from https://ojo.pe/)
+19:44:41	Error: 	"Not Found" (404) at link https://ojo.pe/undefined/actualidad/beat-anuncia-que-dejara-de-operar-en-el-peru-y-desactivara-su-aplicativo-de-taxi-app-lima-rmmn-noticia/ (from https://ojo.pe/)
+19:44:41	Error: 	"Not Found" (404) at link https://ojo.pe/undefined/politica/roberto-sanchez-sobre-supuesto-pago-de-soborno-al-jne-es-algo-que-no-tiene-ni-pies-ni-cabeza-rmmn-noticia/ (from https://ojo.pe/)
+19:44:41	Error: 	"Not Found" (404) at link https://ojo.pe/undefined/politica/guido-bellido-responde-vladimir-cerron-cada-quien-tiene-su-aporte-y-hay-que-reconocer-a-todos-rmmn-noticia/ (from https://ojo.pe/)
+19:44:41	Error: 	"Not Found" (404) at link https://ojo.pe/undefined/politica/embajada-de-estados-unidos-la-libertad-de-prensa-es-la-base-de-una-democracia-saludable-rmmn-noticia/ (from https://ojo.pe/)
+19:44:41	Error: 	"Not Found" (404) at link https://ojo.pe/undefined/politica/sol-carreno-sobre-anibal-torres-el-agravio-a-las-mujeres-ha-sido-general-y-eso-es-violencia-rmmn-noticia/ (from https://ojo.pe/)
+19:44:41	Error: 	"Not Found" (404) at link https://ojo.pe/undefined/galeria/lucecita-ceballos-conoce-a-la-actriz-que-interpreta-a-dalila-en-al-fondo-hay-sitio-nnsp-television-peruana-el-especial-del-humor-noticia/ (from https://ojo.pe/)
+19:44:41	Error: 	"Not Found" (404) at link https://ojo.pe/undefined/autores/ (from https://ojo.pe/)
+19:44:41	Error: 	"Not Found" (404) at link https://ojo.pe/undefined/galeria/recordemos-a-los-personajes-de-nuestra-farandula-que-fueron-expulsados-del-peru-arnie-hussid-greysy-ortega-barbara-fernandez-eyal-berkover-julieta-rodriguez-pancho-rodriguez-nnsp-noticia/ (from https://ojo.pe/)
+19:44:41	Error: 	"Not Found" (404) at link https://ojo.pe/undefined/autor/enrique-bustamante-ravina/ (from https://ojo.pe/)
+19:44:41	Error: 	"Not Found" (404) at link https://ojo.pe/undefined/galeria/roberto-chale-esperando-su-pronta-recuperacion-una-mirada-a-la-gran-trayectoria-del-maestro-chale-nnsp-seleccion-peruana-universitario-de-deportes-noticia/ (from https://ojo.pe/)
+19:44:41	Error: 	"Not Found" (404) at link https://ojo.pe/undefined/galeria/tula-rodriguez-conoce-sus-inicios-como-vedette-en-la-television-peruana-nnsp-risas-y-salsa-risas-de-america-farandula-noticia/ (from https://ojo.pe/)
+19:44:41	Error: 	"Not Found" (404) at link https://ojo.pe/undefined/escolar/los-proceres-de-la-independencia-del-peru-257297-noticia/ (from https://ojo.pe/)
+19:44:41	Error: 	"Not Found" (404) at link https://ojo.pe/undefined/autor/drobles/ (from https://ojo.pe/)
+19:44:41	Error: 	"Not Found" (404) at link https://ojo.pe/undefined/mujer/familia/disciplina-positiva-cuales-son-los-beneficios-en-el-aula-web-ojo-mujer-noticia/ (from https://ojo.pe/)
+19:44:41	Error: 	"Not Found" (404) at link https://ojo.pe/undefined/autor/redactorojo/ (from https://ojo.pe/)
+19:44:41	Error: 	"Not Found" (404) at link https://ojo.pe/undefined/escolar/bicicletas-fijas-debajo-de-carpetas-ayudan-a-estudiantes-a-concentrarse-en-clase-de-matematicas-web-ojo-print-noticia/ (from https://ojo.pe/)
+19:44:41	Error: 	"Not Found" (404) at link https://ojo.pe/undefined/locomundo/alpes-descubren-mayor-diente-de-ictiosaurio-el-dinosaurio-marino-mas-grande-de-la-historia-web-ojo-print-noticia/ (from https://ojo.pe/)
+19:44:41	Error: 	"Not Found" (404) at link https://ojo.pe/undefined/locomundo/video-viral-de-hoy-bus-pasa-bache-mientras-cantan-y-el-celular-cae-en-medio-de-la-carretera-tiktok-peru-curiosidades-nnda-nnrt-noticia/ (from https://ojo.pe/)
+19:44:41	Error: 	"Not Found" (404) at link https://ojo.pe/undefined/locomundo/viral-asi-serian-las-personas-en-un-futuro-por-el-uso-excesivo-de-la-tecnologia-redes-sociales-teconologia-tollfreeforwarding-rmmn-noticia/ (from https://ojo.pe/)
+19:44:41	Error: 	"Not Found" (404) at link https://ojo.pe/undefined/locomundo/robo-mundial-llega-en-exclusiva-este-9-de-noviembre-a-star-plus-nnda-nnrt-noticia/ (from https://ojo.pe/)
+19:44:41	Error: 	"Not Found" (404) at link https://ojo.pe/undefined/autor/redaccion-mag/ (from https://ojo.pe/)
+19:44:41	Error: 	"Not Found" (404) at link https://ojo.pe/undefined/locomundo/ahorcan-a-un-condenado-que-ya-estaba-muerto-nematullah-barahui-iran-human-rights-zahedan-iran-rmmn-noticia/ (from https://ojo.pe/)
+19:44:41	Error: 	"Not Found" (404) at link https://ojo.pe/undefined/deportes/roberto-mosquera-y-el-bonito-reconocimiento-que-recibio-por-parte-de-sporting-cristal-liga-1-rmmd-noticia/ (from https://ojo.pe/)
+19:44:41	Error: 	"Not Found" (404) at link https://ojo.pe/undefined/deportes/shakira-en-qatar-2022-la-pista-que-indicaria-que-la-colombiana-si-tocaria-en-el-mundial-rmmd-emcc-noticia/ (from https://ojo.pe/)
+19:44:41	Error: 	"Not Found" (404) at link https://ojo.pe/undefined/deportes/sporting-cristal-busca-contratar-a-un-tecnico-brasileno-tiago-nunes-campeon-de-la-copa-sudamericana-liga-1-rmmd-noticia/ (from https://ojo.pe/)
+19:44:41	Error: 	"Not Found" (404) at link https://ojo.pe/undefined/deportes/roberto-mosquera-analiza-su-futuro-el-entrenador-peruano-se-refirio-a-la-posibilidad-de-volver-a-dirigir-en-bolivia-sporting-cristal-rmmd-noticia/ (from https://ojo.pe/)
+19:44:41	Error: 	"Not Found" (404) at link https://ojo.pe/undefined/mujer/salud/comer-para-vivir-por-que-la-quinua-es-un-alimento-completo-web-ojo-print-noticia/ (from https://ojo.pe/)
+19:44:41	Error: 	"Not Found" (404) at link https://ojo.pe/undefined/autor/daguirre/ (from https://ojo.pe/)
+19:44:41	Error: 	"Not Found" (404) at link https://ojo.pe/undefined/mujer/salud/campana-de-vasectomia-gratuita-la-ligadura-de-trompas-esta-disponible-todo-el-ano-minsa-planificacion-familiar-rmmn-noticia/ (from https://ojo.pe/)
+19:44:41	Error: 	"Not Found" (404) at link https://ojo.pe/undefined/mujer/salud/ojo-con-la-salud-vuelve-la-coleccion-con-los-mejores-tips-del-dr-perez-albela-web-ojo-mujer-noticia/ (from https://ojo.pe/)
+19:44:41	Error: 	"Not Found" (404) at link https://ojo.pe/undefined/mujer/salud/cancer-de-piel-8-consejos-importantes-para-prevenir-esta-enfermedad-web-ojo-mujer-noticia/ (from https://ojo.pe/)
+19:44:41	Error: 	"Not Found" (404) at link https://ojo.pe/undefined/mujer/moda-belleza/halloween-2022-maquillaje-para-halloween-payaso-malefico-o-una-catrina-glamurosa-rmmn-emcc-noticia/ (from https://ojo.pe/)
+19:44:41	Error: 	"Not Found" (404) at link https://ojo.pe/undefined/mujer/moda-belleza/halloween-2022-consigue-que-tu-maquillaje-de-hada-dure-toda-la-noche-con-estos-pasos-rmmn-emcc-noticia/ (from https://ojo.pe/)
+19:44:41	Error: 	"Not Found" (404) at link https://ojo.pe/undefined/mujer/moda-belleza/disfraces-para-halloween-2022-aprende-como-maquillarte-para-la-noche-de-brujas-rmmn-emcc-noticia/ (from https://ojo.pe/)
+19:44:41	Error: 	"Not Found" (404) at link https://ojo.pe/undefined/mujer/moda-belleza/3-consejos-para-preparar-una-fiesta-de-halloween-divertida-y-original-web-ojo-mujer-noticia/ (from https://ojo.pe/)
+19:44:41	Error: 	"Not Found" (404) at link https://ojo.pe/undefined/mujer/hogar/trucos-caseros-de-cocina-para-evitar-que-las-alcachofas-se-pongan-negras-hacks-nnda-nnni-noticia/ (from https://ojo.pe/)
+19:44:41	Error: 	"Not Found" (404) at link https://ojo.pe/undefined/mujer/hogar/trucos-de-cocina-como-colocar-la-tapa-de-la-olla-para-que-se-no-desborde-el-agua-hacks-nnda-nnni-noticia/ (from https://ojo.pe/)
+19:44:41	Error: 	"Not Found" (404) at link https://ojo.pe/undefined/mujer/hogar/trucos-caseros-5-ideas-practicas-para-reciclar-tus-toallas-viejas-hacks-nnda-nnni-noticia/ (from https://ojo.pe/)
+19:44:41	Error: 	"Not Found" (404) at link https://ojo.pe/undefined/mujer/hogar/trucos-caseros-elimina-las-manchas-de-esmalte-de-tu-ropa-o-alfombra-con-estos-pasos-remedios-hacks-nnda-nnni-noticia/ (from https://ojo.pe/)
+19:44:43	Error: 	"Not Found" (404) at link https://ojo.pe/Trident/ (from https://ojo.pe/)
+19:44:43	Error: 	"Not Found" (404) at link https://ojo.pe/GET/ (from static.chartbeat.com/js/chartbeat_mab.js)
+19:44:43	Error: 	"Not Found" (404) at link https://ojo.pe/videos/ak.m (from https://ojo.pe/videos/)
+19:44:43	Error: 	"Not Found" (404) at link https://ojo.pe/videos/ak.t (from https://ojo.pe/videos/)
+19:44:45	Error: 	"Not Found" (404) at link https://ojo.pe/videos/Trident/ (from https://ojo.pe/videos/)
+19:44:45	Error: 	"Not Found" (404) at link https://ojo.pe/ojo-show/ak.m (from https://ojo.pe/ojo-show/)
+19:44:45	Error: 	"Not Found" (404) at link https://ojo.pe/ojo-show/ak.t (from https://ojo.pe/ojo-show/)
+19:44:49	Error: 	"Not Found" (404) at link https://ojo.pe/ojo-show/Trident/ (from https://ojo.pe/ojo-show/)
+19:44:49	Error: 	"Not Found" (404) at link https://ojo.pe/policial/ak.m (from https://ojo.pe/policial/)
+19:44:49	Error: 	"Not Found" (404) at link https://ojo.pe/policial/ak.t (from https://ojo.pe/policial/)
+19:44:52	Error: 	"Not Found" (404) at link https://ojo.pe/policial/Trident/ (from https://ojo.pe/policial/)
+19:44:52	Error: 	"Not Found" (404) at link https://ojo.pe/mujer/ak.m (from https://ojo.pe/mujer/)
+19:44:52	Error: 	"Not Found" (404) at link https://ojo.pe/mujer/ak.t (from https://ojo.pe/mujer/)
+19:44:53	Warning: 	File not added due to mirror cancel: https://ojo.pe/mujer/horoscopo/horoscopo-y-tarot-gratis-de-hoy-domingo-6-de-noviembre-de-2022-web-ojo-noticia/
+19:44:53	Error: 	"mirror stopped by user" (-1) at link https://ojo.pe/mujer/horoscopo/horoscopo-y-tarot-gratis-de-hoy-domingo-6-de-noviembre-de-2022-web-ojo-noticia/ (from https://ojo.pe/mujer/)
+19:44:53	Warning: 	File not added due to mirror cancel: https://ojo.pe/resizer/XYAH73GWS8Z-h_9iTS10kSeRn_A=/118x72/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/IU24G6ZS5VDCVOP77NCON3PFAY.png
+19:44:53	Error: 	"mirror stopped by user" (-1) at link https://ojo.pe/resizer/XYAH73GWS8Z-h_9iTS10kSeRn_A=/118x72/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/IU24G6ZS5VDCVOP77NCON3PFAY.png (from https://ojo.pe/mujer/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 24 seconds : 529 links scanned, 467 files written (37148326 bytes overall) [12665678 bytes received at 62086 bytes/sec], 46297659 bytes transferred using HTTP compression in 279 files, ratio 22%, 7.0 requests per connection
+(62 errors, 6 warnings, 0 messages)
